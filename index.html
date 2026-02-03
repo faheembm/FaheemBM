@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Faheem B M</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <main>
+
+    <!-- Profile Photo -->
+    <div class="photo-wrap">
+      <img src="profile.jpg" alt="Faheem B M" class="profile-photo" />
+    </div>
+
+    <!-- Name + Bio -->
+    <header class="hero">
+      <h1>Faheem B M</h1>
+      <p class="bio">
+        Software founder. Building tools that solve real problems.<br/>
+        Focused on SaaS, automation, and products that actually ship.
+      </p>
+    </header>
+
+    <!-- What I'm Building -->
+    <section class="building">
+      <h2>What I'm building</h2>
+      <div class="card">
+        <div class="card-header">
+          <span class="tag">Current</span>
+          <h3>FollowUpKit</h3>
+        </div>
+        <p>
+          A follow-up automation tool for freelancers and consultants.
+          Tracks leads, sends reminders, and helps close deals
+          without letting opportunities slip through the cracks.
+        </p>
+        <div class="card-meta">
+          <span>SaaS</span>
+          <span>Automation</span>
+          <span>Freelancers</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Links -->
+    <section class="links">
+      <h2>Connect</h2>
+      <div class="link-grid">
+        <a href="https://x.com/MrFaheemBM" target="_blank" class="link-item">
+          <span class="link-label">X (Twitter)</span>
+          <span class="link-arrow">&#x2190;</span>
+        </a>
+        <a href="https://github.com/faheembm" target="_blank" class="link-item">
+          <span class="link-label">GitHub</span>
+          <span class="link-arrow">&#x2190;</span>
+        </a>
+        <a href="https://instagram.com/faheembm" target="_blank" class="link-item">
+          <span class="link-label">Instagram</span>
+          <span class="link-arrow">&#x2190;</span>
+        </a>
+        <a href="mailto:mrfaheembm@gmail.com" class="link-item">
+          <span class="link-label">Email</span>
+          <span class="link-arrow">&#x2190;</span>
+        </a>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <span>India</span>
+    <span class="divider">/</span>
+    <span id="year"></span>
+  </footer>
+
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+  </script>
+
+</body>
+</html>
