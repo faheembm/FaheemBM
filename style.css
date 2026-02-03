@@ -278,3 +278,27 @@ footer {
     gap: 48px;
   }
   }
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  max-width: 420px;
+  margin-top: 24px;
+}
+
+input, textarea {
+  background: #0a0a0a;
+  border: 1px solid #222;
+  padding: 12px;
+  color: #fff;
+  border-radius: 8px;
+}
+
+button {
+  background: #fff;
+  color: #000;
+  padding: 12px;
+  border-radius: 8px;
+  cursor: pointer;
+}
