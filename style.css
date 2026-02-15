@@ -109,12 +109,25 @@ h2 {
   animation: fadeUp 0.7s cubic-bezier(0.22, 1, 0.36, 1) 0.25s both;
 }
 
+/* ─── Card link wrapper ─── */
+.card-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Gap between stacked cards */
+.card-link + .card-link {
+  margin-top: 12px;
+}
+
+/* ─── Card ─── */
 .card {
   background: #111111;
   border: 1px solid #1a1a1a;
   border-radius: 12px;
   padding: 36px;
-  transition: border-color 0.3s ease, background 0.3s ease;
+  transition: border-color 0.3s ease, background 0.3s ease, transform 0.2s ease;
   position: relative;
   overflow: hidden;
 }
@@ -132,8 +145,10 @@ h2 {
 .card:hover {
   border-color: #2a2a2a;
   background: #131313;
+  transform: translateY(-2px);
 }
 
+/* ─── Card header ─── */
 .card-header {
   display: flex;
   align-items: center;
@@ -158,6 +173,19 @@ h2 {
   font-weight: 600;
   color: #ffffff;
   letter-spacing: -0.01em;
+}
+
+/* Arrow indicator — sits at far right of card header */
+.card-link-arrow {
+  margin-left: auto;
+  font-size: 0.8rem;
+  color: #2a2a2a;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.card-link:hover .card-link-arrow {
+  color: #5a5a5a;
+  transform: translateX(2px) translateY(-2px);
 }
 
 .card p {
@@ -277,8 +305,9 @@ footer {
   main {
     gap: 48px;
   }
-  }
+}
 
+/* ─── Contact form ─── */
 form {
   display: flex;
   flex-direction: column;
@@ -303,32 +332,26 @@ button {
   cursor: pointer;
 }
 
-
+/* ─── CTA Button ─── */
 .cta-button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   margin-top: 32px;
-
   padding: 14px 22px;
   border-radius: 14px;
-
   background: linear-gradient(
     135deg,
     rgba(255,255,255,0.12),
     rgba(255,255,255,0.04)
   );
-
   border: 1px solid rgba(255,255,255,0.18);
-
   color: #ffffff;
   text-decoration: none;
   font-weight: 500;
   letter-spacing: 0.2px;
-
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-
   transition: transform 0.25s ease,
               box-shadow 0.25s ease,
               background 0.25s ease;
@@ -337,7 +360,6 @@ button {
 .cta-button:hover {
   transform: translateY(-2px);
   box-shadow: 0 10px 30px rgba(0,0,0,0.45);
-
   background: linear-gradient(
     100deg,
     rgba(200,200,200,0.14),
