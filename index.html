@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -30,6 +29,44 @@
   <meta name="twitter:image" content="https://faheembm.bm/og.jpg" />
 
   <link rel="stylesheet" href="style.css" />
+
+  <style>
+    /* Card link wrapper — makes whole card clickable */
+    .card-link {
+      display: block;
+      text-decoration: none;
+      color: inherit;
+      border-radius: inherit;
+    }
+
+    /* Hover lift effect on cards */
+    .card {
+      transition: transform 0.2s ease, border-color 0.2s ease;
+      cursor: pointer;
+    }
+    .card:hover {
+      transform: translateY(-2px);
+    }
+
+    /* Arrow indicator inside card header */
+    .card-link-arrow {
+      margin-left: auto;
+      font-size: 0.75rem;
+      opacity: 0.35;
+      transition: opacity 0.2s ease, transform 0.2s ease;
+    }
+    .card-link:hover .card-link-arrow {
+      opacity: 0.75;
+      transform: translateX(3px);
+    }
+
+    /* Update card-header to flex so arrow sits right */
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+  </style>
 </head>
 <body>
   <main>
@@ -51,43 +88,49 @@
     <!-- What I'm Building -->
     <section class="building">
       <h2>What I'm building</h2>
-      <div class="card">
-        <div class="card-header">
-          <span class="tag">Current</span>
-          <h3>FollowUpKit</h3>
+
+      <!-- FollowUpKit — links to followupkit.app -->
+      <a href="https://followupkit.app/" target="_blank" rel="noopener noreferrer" class="card-link">
+        <div class="card">
+          <div class="card-header">
+            <span class="tag">Current</span>
+            <h3>FollowUpKit</h3>
+            <span class="card-link-arrow">↗</span>
+          </div>
+          <p>
+            A follow-up automation tool for freelancers and consultants.
+            Tracks leads, sends reminders, and helps close deals
+            without letting opportunities slip through the cracks.
+          </p>
+          <div class="card-meta">
+            <span>SaaS</span>
+            <span>Automation</span>
+            <span>Freelancers</span>
+          </div>
         </div>
-        <p>
-          A follow-up automation tool for freelancers and consultants.
-          Tracks leads, sends reminders, and helps close deals
-          without letting opportunities slip through the cracks.
-        </p>
-        <div class="card-meta">
-          <span>SaaS</span>
-          <span>Automation</span>
-          <span>Freelancers</span>
+      </a>
+
+      <!-- Creovate — links to creovateco.store -->
+      <a href="https://www.creovateco.store/" target="_blank" rel="noopener noreferrer" class="card-link">
+        <div class="card">
+          <div class="card-header">
+            <span class="tag">Previous</span>
+            <h3>Creovate</h3>
+            <span class="card-link-arrow">↗</span>
+          </div>
+          <p>
+            Digital products brand selling practical planners, productivity systems,
+            and freelance toolkits. Instant PDF download.
+          </p>
+          <div class="card-meta">
+            <span>Digital Products</span>
+            <span>E-commerce</span>
+            <span>Productized</span>
+          </div>
         </div>
-      </div>
+      </a>
+
     </section>
-
-<div class="card">
-  <div class="card-header">
-    <span class="tag">Previous</span>
-    <h3>Creovate</h3>
-  </div>
-
-  <p>
-    Digital products brand focused on selling practical tools and assets.
-    Built and operated using Shopify.
-  </p>
-
-  <div class="card-meta">
-    <span>Digital Products</span>
-    <span>Shopify</span>
-    <span>E-commerce</span>
-  </div>
-</div>
-</section>
-
 
     <!-- Links -->
     <section class="links">
@@ -114,11 +157,9 @@
 
   </main>
 
-
-<a href="/contact.html" class="cta-button">
-  Contact
-</a>
-
+  <a href="/contact.html" class="cta-button">
+    Contact
+  </a>
 
   <!-- Footer -->
   <footer>
