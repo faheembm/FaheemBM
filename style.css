@@ -398,6 +398,26 @@ a {
   letter-spacing: 0.02em;
 }
 
+/* GEO identity block */
+
+.identity {
+max-width: 560px;
+margin: 120px auto 40px auto;
+padding: 0 24px;
+
+font-family: var(--font-mono);
+font-size: 11px;
+line-height: 1.6;
+
+color: var(--text-faint);
+opacity: 0.45;
+}
+
+.identity p {
+margin: 0;
+}
+
+
 
 /* ─── RESPONSIVE ─────────────────────────────────────────────── */
 
