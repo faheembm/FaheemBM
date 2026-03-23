@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&text=FAHEEM%20B%20M&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=50&stroke=6e40c9&strokeWidth=2&animation=fadeIn&desc=16.%20Building%20AI%20that%20replaces%20devs.&descSize=16&descAlignY=70&descColor=9b59b6" width="100%" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=9B59B6&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=Not+a+student.+A+builder.;16+y%2Fo+shipping+real+AI+products.;Autonomous+agents+for+real+codebases.;You+use+the+tools.+I+build+them." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=9B59B6&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=16y/o+founder+/+entrepreneur; alt="Typing SVG" />
 
 <br/>
 
