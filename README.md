@@ -22,28 +22,6 @@
 <!-- ABOUT SECTION -->
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheembm&layout=compact&theme=midnight-purple&bg_color=0d0d0d&border_color=6e40c9&title_color=9b59b6&text_color=ffffff&hide_border=false" width="38%" />
 
-### `> whoami`
-
-```python
-faheem = {
-  "age"     : 16,
-  "role"    : "Founder × Builder × Autonomous Agent Architect",
-  "status"  : "Shipping. Not studying.",
-  "warning" : "Not a normal 16 y/o.",
-  "edge"    : "AI that writes code, not just chat.",
-}
-```
-
-I don't build side projects. I build products people use.
-
-Most 16 y/os are writing essays. I'm shipping autonomous coding agents, lead-tracking SaaS, and device mockup generators — and doing it **fast.**
-
-The dangerous part? I'm just getting started.
-
-<br clear="right"/>
-
----
-
 <!-- WHAT I'M BUILDING -->
 ### `> ls projects/`
 
@@ -120,27 +98,6 @@ The dangerous part? I'm just getting started.
 
 </div>
 
----
-
-<!-- PHILOSOPHY -->
-### `> cat /etc/faheem/mindset`
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "Most people wait until 22 to start building.             ║
-║    I didn't get that memo."                                  ║
-║                                                              ║
-║   700+ commits in 45 days.                                   ║
-║   Multiple shipped products.                                 ║
-║   One goal: build AI that does the work, not assists it.     ║
-║                                                              ║
-║   Dangerous? Maybe. Normal? Never.                           ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
----
 
 <!-- CONNECT -->
 ### `> curl --connect faheem`
@@ -157,10 +114,3 @@ The dangerous part? I'm just getting started.
 
 <br/>
 
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=faheembm&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" />
-
-</div>
-
-<!-- FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:1a0a2e,100:0d0d0d&section=footer&fontColor=9b59b6&fontSize=14&text=faheembm%20—%20building%20the%20dangerous%20stuff&fontAlignY=65&animation=fadeIn" width="100%" />
