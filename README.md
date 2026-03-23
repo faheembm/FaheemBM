@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&text=FAHEEM%20B%20M&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=50&stroke=6e40c9&strokeWidth=2&animation=fadeIn&desc=16.%20Building%20AI%20that%20replaces%20devs.&descSize=16&descAlignY=70&descColor=9b59b6" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&text=FAHEEM%20B%20M&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=50&stroke=6e40c9&strokeWidth=2&animation=fadeIn&desc=16.%20Building%20AI%20tools.&descSize=16&descAlignY=70&descColor=9b59b6" width="100%" />
 
 <!-- STATUS BADGE -->
 <img src="https://img.shields.io/badge/STATUS-BUILDING%20IN%20PUBLIC-6e40c9?style=for-the-badge&labelColor=0d0d0d&color=6e40c9" />
