@@ -1,23 +1,24 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:0d0d0d,50:1a0a2e,100:0d0d0d&text=FAHEEM%20B%20M&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=50&stroke=6e40c9&strokeWidth=2&animation=fadeIn&desc=16.%20Building%20AI%20tools.&descSize=16&descAlignY=70&descColor=9b59b6" width="100%" />
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:000000,50:1a1a1a,100:000000&text=FAHEEM%20B%20M&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=50&stroke=ffffff&strokeWidth=1&animation=fadeIn&desc=16.%20Building%20AI%20tools.&descSize=16&descAlignY=70&descColor=cccccc" width="100%" />
 
 <!-- STATUS BADGE -->
-<img src="https://img.shields.io/badge/STATUS-BUILDING-6e40c9?style=for-the-badge&labelColor=0d0d0d&color=6e40c9" />
+<img src="https://img.shields.io/badge/STATUS-BUILDING-2b2b2b?style=for-the-badge&labelColor=000000&color=2b2b2b" />
 &nbsp;
-<img src="https://img.shields.io/badge/AGE-16-blueviolet?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/AGE-16-444444?style=for-the-badge&labelColor=000000" />
 &nbsp;
-<img src="https://img.shields.io/badge/FOCUS-AI%20DEV%20TOOLS-6e40c9?style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/FOCUS-AI%20DEV%20TOOLS-2b2b2b?style=for-the-badge&labelColor=000000" />
 
 </div>
 
 ---
 
 <!-- ABOUT SECTION -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheembm&layout=compact&theme=midnight-purple&bg_color=0d0d0d&border_color=6e40c9&title_color=9b59b6&text_color=ffffff&hide_border=false" width="38%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheembm&layout=compact&theme=dark&bg_color=000000&border_color=333333&title_color=ffffff&text_color=cccccc&hide_border=false" width="38%" />
 
-<!-- WHAT I'M BUILDING -->
+---
+
 ### `> ls projects/`
 
 <table>
@@ -25,31 +26,31 @@
 <td width="33%" valign="top">
 
 **`⚡ DevPilot`**
-> Autonomous repo agent that reads, understands, and **modifies real codebases** without hand-holding.
+> AI agent experimenting with analyzing and modifying codebases.
 >
-> Not a chatbot. A dev.
+> Focus: automating development workflows.
 
-[![Repo](https://img.shields.io/badge/REPO-faheembm%2FDevpilot-6e40c9?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/faheembm/Devpilot)
+[![Repo](https://img.shields.io/badge/REPO-faheembm%2FDevpilot-2b2b2b?style=flat-square&logo=github&logoColor=white&labelColor=000000)](https://github.com/faheembm/Devpilot)
 
 </td>
 <td width="33%" valign="top">
 
 **`📸 MockShot`**
-> Drop a screenshot. Get a **device mockup instantly.**
+> Turn screenshots into clean device mockups instantly.
 >
-> Clean. Fast. No design tools needed.
+> No design tools needed.
 
-[![Repo](https://img.shields.io/badge/REPO-faheembm%2Fmockshot-6e40c9?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/faheembm/mockshot)
+[![Repo](https://img.shields.io/badge/REPO-faheembm%2Fmockshot-2b2b2b?style=flat-square&logo=github&logoColor=white&labelColor=000000)](https://github.com/faheembm/mockshot)
 
 </td>
 <td width="33%" valign="top">
 
 **`📬 FollowUpKit`**
-> Lead tracker + follow-up automation for freelancers.
+> Simple lead tracking + follow-up system for freelancers.
 >
-> Track. Remind. Close. No CRM bloat.
+> Track. Remind. Close.
 
-[![Repo](https://img.shields.io/badge/REPO-Private-3a3a3a?style=flat-square&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/faheembm)
+[![Repo](https://img.shields.io/badge/REPO-Private-1a1a1a?style=flat-square&logo=github&logoColor=white&labelColor=000000)](https://github.com/faheembm)
 
 </td>
 </tr>
@@ -57,34 +58,30 @@
 
 ---
 
-<!-- GITHUB STATS — MOTION / ANIMATED -->
 ### `> git log --stat --pretty=oneline`
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faheembm&theme=midnight-purple&background=0d0d0d&border=6e40c9&stroke=6e40c9&ring=9b59b6&fire=ff4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9b59b6&sideLabels=9b59b6&dates=888888" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=faheembm&theme=dark&background=000000&border=333333&stroke=555555&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=cccccc&currStreakLabel=cccccc&sideLabels=888888&dates=777777" width="49%" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=faheembm&show_icons=true&theme=midnight-purple&bg_color=0d0d0d&border_color=6e40c9&title_color=9b59b6&icon_color=9b59b6&text_color=ffffff&include_all_commits=true&count_private=true&hide_border=false&custom_title=Faheem's+War+Logs" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=faheembm&show_icons=true&theme=dark&bg_color=000000&border_color=333333&title_color=ffffff&icon_color=ffffff&text_color=cccccc&include_all_commits=true&count_private=true&hide_border=false" width="49%" />
 
 </div>
 
 <div align="center">
 
-<!-- CONTRIBUTION ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faheembm&bg_color=0d0d0d&color=9b59b6&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=false&border_color=6e40c9&custom_title=Commit%20History%20—%20Every%20Dot%20is%20a%20Ship&radius=6" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faheembm&bg_color=000000&color=cccccc&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=false&border_color=333333&radius=6" width="98%" />
 
 </div>
 
 <div align="center">
 
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.vercel.app/?username=faheembm&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&column=7&title=Commits,Repositories,Stars,PullRequest,Issues,Followers,Experience" width="98%" />
+<img src="https://github-profile-trophy.vercel.app/?username=faheembm&theme=dark&no-frame=false&no-bg=false&margin-w=6&column=7" width="98%" />
 
 </div>
 
 ---
 
-<!-- TECH STACK -->
 ### `> cat stack.json`
 
 <div align="center">
@@ -93,19 +90,18 @@
 
 </div>
 
+---
 
-<!-- CONNECT -->
 ### `> curl --connect faheem`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-faheembm-6e40c9?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/faheembm)
+[![GitHub](https://img.shields.io/badge/GITHUB-faheembm-2b2b2b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/faheembm)
 &nbsp;
-[![Twitter / X](https://img.shields.io/badge/X-@MrFaheemBM-1a1a1a?style=for-the-badge&logo=x&logoColor=white&labelColor=0d0d0d)](https://x.com/MrFaheemBM)
+[![Twitter / X](https://img.shields.io/badge/X-@MrFaheemBM-1a1a1a?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/MrFaheemBM)
 &nbsp;
-[![Website](https://img.shields.io/badge/WEBSITE-faheembm.com-6e40c9?style=for-the-badge&logo=safari&logoColor=white&labelColor=0d0d0d)](https://faheembm.com)
+[![Website](https://img.shields.io/badge/WEBSITE-faheembm.com-2b2b2b?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000)](https://faheembm.com)
 &nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-mrfaheembm%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:mrfaheembm@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-mrfaheembm%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:mrfaheembm@gmail.com)
 
-<br/>
-
+</div>
