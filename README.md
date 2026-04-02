@@ -98,7 +98,7 @@
 
 [![GitHub](https://img.shields.io/badge/GITHUB-faheembm-2b2b2b?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/faheembm)
 &nbsp;
-[![Twitter / X](https://img.shields.io/badge/X-@MrFaheemBM-1a1a1a?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/MrFaheemBM)
+[![Twitter / X](https://img.shields.io/badge/X-@imfahmbm-1a1a1a?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/MrFaheemBM)
 &nbsp;
 [![Website](https://img.shields.io/badge/WEBSITE-faheembm.com-2b2b2b?style=for-the-badge&logo=safari&logoColor=white&labelColor=000000)](https://faheembm.com)
 &nbsp;
